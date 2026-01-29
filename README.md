@@ -18,7 +18,7 @@ This project is a comprehensive desktop application developed as the final proje
 
 ## 📁 Repository Structure
 The project is organized into the following directories for better accessibility:
-* **[📁 Source Code](./src):** Contains 30+ Java source files (.java) for system logic and UI.
+* **[📁 Source Code](./src/main/java):** Contains 30+ Java source files (.java) for system logic and UI.
 * **[📁 Database](./data_base.sql):** Includes database schemas, scripts, and configurations.
 * **[📁 Report](./Event_Registration_and_Ticket_Management_System):** Contains the final project report in PDF format.
 
